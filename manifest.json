@@ -1,0 +1,18 @@
+{
+  "name": "Пульс — трекер задач и целей",
+  "short_name": "Пульс",
+  "description": "Задачи, таймеры-цели и заметки. Офлайн.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e1a",
+  "theme_color": "#0b0e1a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "https://image.qwenlm.ai/public_source/11c3fa86-eed9-4be4-9cc8-2f736ec6a68f/11626fdd8-a675-4eef-8ce0-184240ed86b4.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
